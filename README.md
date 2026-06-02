@@ -1,4 +1,4 @@
-# Logica-de-Programacao.
+# Lógica-de-Programação.
 Meu aprendizado de Logística de Programação.
 
 Exercícios Feitos:
