@@ -13,6 +13,25 @@ Os Programas do Computador é um Algoritmo escrito em Linguagem de Programação
 
 O computador é uma ferramenta utilizada para solucionar problemas que envolvem a manipulação de informações. 
 
+Dados:
+
+As informações são caracterizados por tipos de dados que podem  variar de acordo com a linguagem de programação.
+
+Tipos de Dados-Numericos-Inteiros:
+
+Inteiro:podem ser positivos, negativos ou nulos, e não possuem casas decimais.
+
+Tipos de Dados-Numericos-Reais:
+
+Real:podem ser positivos, negativos ou nulos e possuem sempre casas decimais(fracionários).
+
+Os Tipos Inteiros são compatíveis com os Reais, mas os Reais não são compatíveis com os Inteiros; portanto uma célula de memória do tipo Real pode receber/armazenar um valor Inteiro, mas uma célula do tipo Inteiro não pode receber/armazenar um valor Real.
+
+Tipo de Dados-Texto:
+
+É uma sequência de alfanuméricos também chamados de Strings, Literal ou Texto.
+
+São representados por letras(A...Z...a...z), dígitos (0...9), espaços em branco ( ) e símbolos especiais(~, ., ?, <, >, /, #, @, etc).
 
 Exercícios Feitos:
 [PrimeiraListaExercicios_CLP.pdf](https://github.com/user-attachments/files/28480122/PrimeiraListaExercicios_CLP.pdf)
