@@ -33,6 +33,9 @@ Tipo de Dados-Texto:
 
 São representados por letras(A...Z...a...z), dígitos (0...9), espaços em branco ( ) e símbolos especiais(~, ., ?, <, >, /, #, @, etc).
 
+Quando os Comandos estão entre aspas, o computador identifica como Texto.
+
+
 Exercícios Feitos:
 [PrimeiraListaExercicios_CLP.pdf](https://github.com/user-attachments/files/28480122/PrimeiraListaExercicios_CLP.pdf)
 
