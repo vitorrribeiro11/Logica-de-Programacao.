@@ -19,11 +19,11 @@ As informações são caracterizados por tipos de dados que podem  variar de aco
 
 Tipos de Dados-Numericos-Inteiros:
 
-Inteiro:podem ser positivos, negativos ou nulos, e não possuem casas decimais.
+Podem ser positivos, negativos ou nulos, e não possuem casas decimais.
 
 Tipos de Dados-Numericos-Reais:
 
-Real:podem ser positivos, negativos ou nulos e possuem sempre casas decimais(fracionários).
+Podem ser positivos, negativos ou nulos e possuem sempre casas decimais(fracionários).
 
 Os Tipos Inteiros são compatíveis com os Reais, mas os Reais não são compatíveis com os Inteiros; portanto uma célula de memória do tipo Real pode receber/armazenar um valor Inteiro, mas uma célula do tipo Inteiro não pode receber/armazenar um valor Real.
 
