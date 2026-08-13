@@ -41,6 +41,10 @@ Numérico: Operações Aritméticas sobre dados numéricos.
 
 Texto/Caractere: Unir Textos, Concatenar, Nome e Sobrenome.
 
+Tipos de Dados - Lógicos:
+
+Toda e qualquer informação que pode assumir uma entre duas possibilidades (Verdadeiro ou Falso).
+
 Exercícios Feitos:
 [PrimeiraListaExercicios_CLP.pdf](https://github.com/user-attachments/files/28480122/PrimeiraListaExercicios_CLP.pdf)
 
