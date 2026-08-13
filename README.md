@@ -33,13 +33,13 @@ Tipo de Dados-Texto:
 
 São representados por letras(A...Z...a...z), dígitos (0...9), espaços em branco ( ) e símbolos especiais(~, ., ?, <, >, /, #, @, etc).
 
-Quando os Comandos estão entre aspas, o computador identifica como Texto.
+Quando os Comandos estão entre aspas(" "), o computador identifica como Texto.
 
 Tipos de Dados - Numéricos e Texto:
 
 Numérico: Operações Aritméticas sobre dados numéricos.
 
-Texto:Unir Textos, Concatenar, Nome e Sobrenome.
+Texto: Unir Textos, Concatenar, Nome e Sobrenome.
 
 Exercícios Feitos:
 [PrimeiraListaExercicios_CLP.pdf](https://github.com/user-attachments/files/28480122/PrimeiraListaExercicios_CLP.pdf)
