@@ -39,7 +39,7 @@ Tipos de Dados - Numéricos e Texto:
 
 Numérico: Operações Aritméticas sobre dados numéricos.
 
-Texto: Unir Textos, Concatenar, Nome e Sobrenome.
+Texto/Caractere: Unir Textos, Concatenar, Nome e Sobrenome.
 
 Exercícios Feitos:
 [PrimeiraListaExercicios_CLP.pdf](https://github.com/user-attachments/files/28480122/PrimeiraListaExercicios_CLP.pdf)
