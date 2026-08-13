@@ -44,6 +44,10 @@ Texto/Caractere: Unir Textos, Concatenar, Nome e Sobrenome.
 Tipos de Dados - Lógicos:
 
 Toda e qualquer informação que pode assumir uma entre duas possibilidades (Verdadeiro ou Falso).
+Também chamados de valores verdade ou booleanos, muito utilizado em controle de fluxo lógico do algoritmo.
+
+Formas de representação: V e F; 0 e 1; true e false; sim e não.
+Durante o processamento de um algoritmo são tomadas decisões com base nesses dois valores.
 
 Exercícios Feitos:
 [PrimeiraListaExercicios_CLP.pdf](https://github.com/user-attachments/files/28480122/PrimeiraListaExercicios_CLP.pdf)
