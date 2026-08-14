@@ -49,6 +49,9 @@ Também chamados de valores verdade ou booleanos, muito utilizado em controle de
 Formas de representação: V e F; 0 e 1; true e false; sim e não.
 Durante o processamento de um algoritmo são tomadas decisões com base nesses dois valores.
 
+Como os dados são Armazenados?
+
+
 Exercícios Feitos:
 [PrimeiraListaExercicios_CLP.pdf](https://github.com/user-attachments/files/28480122/PrimeiraListaExercicios_CLP.pdf)
 
