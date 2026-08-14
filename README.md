@@ -51,6 +51,8 @@ Durante o processamento de um algoritmo são tomadas decisões com base nesses d
 
 Como os dados são Armazenados?
 
+Na memória do computador onde são dividas em células.
+
 
 Exercícios Feitos:
 [PrimeiraListaExercicios_CLP.pdf](https://github.com/user-attachments/files/28480122/PrimeiraListaExercicios_CLP.pdf)
