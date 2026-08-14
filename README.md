@@ -1,4 +1,4 @@
-# Lógica-de-Programação.
+# Lógica de Programação.
 Meu aprendizado de Logística de Programação.
 
 O que eu aprendi sobre o que é um Algoritmo:
