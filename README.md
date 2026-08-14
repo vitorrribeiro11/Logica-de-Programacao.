@@ -51,7 +51,7 @@ Durante o processamento de um algoritmo são tomadas decisões com base nesses d
 
 Como os dados são Armazenados?
 
-Na memória do computador onde são dividas em células.
+Na memória do computador, onde são dividas em células em que as células são classificadas com o tipo de dados posto nelas.
 
 
 Exercícios Feitos:
