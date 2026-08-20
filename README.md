@@ -55,4 +55,4 @@ Os dados são armazenados na memória do computador, onde essas memórias são d
 
 <img width="725" height="346" alt="Sem título" src="https://github.com/user-attachments/assets/aada0627-a759-403b-8244-ec8bd142d9fa" />
 
-
+Para cada célula de memoria é atribuído um número sequencial que corresponde a sua posição conhecido como endereço de célula ou endereço de memoria. Para cada endereço de célula de memória podemos associar um nome simbólico. Células de memória que contém nome simbólico e valores armazenados são chamadas de variáveis.
