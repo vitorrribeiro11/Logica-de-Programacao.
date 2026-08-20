@@ -1,5 +1,5 @@
 # Lógica de Programação.
-Meu aprendizado de Logística de Programação.
+## Meu aprendizado de Logística de Programação.
 
 O que eu aprendi sobre o que é um Algoritmo:
 Um Algoritmo é um valor/valores de entrada que gera  um valor/valores na saída.
@@ -27,7 +27,7 @@ Podem ser positivos, negativos ou nulos e possuem sempre casas decimais(fracion�
 
 Os Tipos Inteiros são compatíveis com os Reais, mas os Reais não são compatíveis com os Inteiros; portanto uma célula de memória do tipo Real pode receber/armazenar um valor Inteiro, mas uma célula do tipo Inteiro não pode receber/armazenar um valor Real.
 
-## Tipo de Dados-Texto:
+## Tipo de Dados - Texto:
 
 É uma sequência de alfanuméricos também chamados de Strings, Literal ou Texto.
 
