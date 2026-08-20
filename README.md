@@ -53,10 +53,3 @@ Como os dados são Armazenados?
 
 Na memória do computador, onde são dividas em células em que as células são classificadas com o tipo de dados posto nelas.As células armazenam os dados na execução do programa.
 
-
-Exercícios Feitos:
-[PrimeiraListaExercicios_CLP.pdf](https://github.com/user-attachments/files/28480122/PrimeiraListaExercicios_CLP.pdf)
-
-Exercício Número 1:
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e4e5839a-9fac-4245-8437-af881ba454b1" />
-
