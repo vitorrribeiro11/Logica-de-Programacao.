@@ -17,11 +17,11 @@ O computador é uma ferramenta utilizada para solucionar problemas que envolvem 
 
 As informações são caracterizados por tipos de dados que podem  variar de acordo com a linguagem de programação.
 
-## Tipos de Dados-Numericos-Inteiros:
+## Tipos de Dados - Numéricos - Inteiros:
 
 Podem ser positivos, negativos ou nulos, e não possuem casas decimais.
 
-## Tipos de Dados-Numericos-Reais:
+## Tipos de Dados - Numéricos - Reais:
 
 Podem ser positivos, negativos ou nulos e possuem sempre casas decimais(fracionários).
 
