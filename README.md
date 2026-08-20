@@ -51,5 +51,8 @@ Durante o processamento de um algoritmo são tomadas decisões com base nesses d
 
 Como os dados são Armazenados?
 
-Na memória do computador, onde são dividas em células em que as células são classificadas com o tipo de dados posto nelas.As células armazenam os dados na execução do programa.
+Os dados são armazenados na memória do computador, onde essas memórias são dividas em células em que as células são classificadas com o tipo de dados posto nelas.As células armazenam os dados na execução do programa.
+
+<img width="725" height="346" alt="Sem título" src="https://github.com/user-attachments/assets/aada0627-a759-403b-8244-ec8bd142d9fa" />
+
 
