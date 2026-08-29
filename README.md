@@ -29,6 +29,8 @@ Podem ser positivos, negativos ou nulos e possuem sempre casas decimais(fracion�
 
 Os Tipos Inteiros são compatíveis com os Reais, mas os Reais não são compatíveis com os Inteiros; portanto uma célula de memória do tipo Real pode receber/armazenar um valor Inteiro, mas uma célula do tipo Inteiro não pode receber/armazenar um valor Real.
 
+Os números de ponto flutuante, são muitas vezes referidos como 'float', eles são úteis quando precisamos de precisão em nossos cálculos. Por exemplo, se quisermos calcular a média de uma série de números, provavelmente usaremos um float para o resultado, pois a média pode ser um número decimal.Assim como os inteiros, os floats têm um limite de tamanho. Em Java, um 'float' pode ter um valor entre 1.4E-45 e 3.4028235E38.
+
 ## Tipo de Dados - Texto:
 
 É uma sequência de alfanuméricos também chamados de Strings, Literal ou Texto.
