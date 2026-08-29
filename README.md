@@ -33,7 +33,7 @@ Os números de ponto flutuante, são muitas vezes referidos como 'float', eles s
 
 ## Tipo de Dados - Texto:
 
-É uma sequência de alfanuméricos também chamados de Strings, Literal ou Texto.Em muitas Línguagens de Programação são representados pela Palavra-Chave: "char"
+É uma sequência de alfanuméricos também chamados de Strings, Literal ou Texto.Em muitas Línguagens de Programação são representados pela Palavra-Chave 'char'
 
 São representados por letras(A...Z...a...z), dígitos (0...9), espaços em branco ( ) e símbolos especiais(~, ., ?, <, >, /, #, @, etc).
 
