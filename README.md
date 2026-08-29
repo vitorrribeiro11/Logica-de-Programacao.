@@ -23,7 +23,7 @@ Podem ser positivos, negativos ou nulos, e não possuem casas decimais.
 
 Em muitas linguagens de programação, os inteiros são representados pela palavra-chave 'int'. E têm um limite de tamanho dependendo da linguagem de programação. Por exemplo, em Java, um 'int' pode ter um valor entre -2.147.483.648 e 2.147.483.647.
 
-## Tipos de Dados - Numéricos - Reais:
+## Tipos de Dados - Numéricos - Reais/Números de ponto flutuante:
 
 Podem ser positivos, negativos ou nulos e possuem sempre casas decimais(fracionários).
 
