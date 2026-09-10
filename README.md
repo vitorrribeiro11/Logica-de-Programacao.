@@ -63,6 +63,14 @@ Para cada célula de memória é atribuído um número sequencial que correspond
 
 <img width="725" height="295" alt="fotogit" src="https://github.com/user-attachments/assets/967a6768-694d-4436-bde6-9a0265f6dc03" />
 
+##Constante:
+
+Não recebe alteração durante a execução do programa.
+
+##Variavel:
+
+É um dado que pode variar durante a execução do programa ou seja pode assumir valores durante a execução do programa.
+
 ## Regra de nomeação de variaveis:
 
 -Pode se utilizar Letras, Números e Underscore "_"
