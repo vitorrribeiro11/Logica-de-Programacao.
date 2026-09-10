@@ -77,6 +77,17 @@ Para cada célula de memória é atribuído um número sequencial que correspond
 
 -Não pode ter espaços em branco.
 
+-Nome composto de uma variável não podem existir espaços em branco entre os nomes.
+
+-Utiliza-se underscore "_"
+
+-Escolher nomes significativos e intuitivos para as variaveis.
+
+Nomes Invalidos: 1B, Subtração, media dos alunos, dólar$, inteiro, nome completo.
+
+Nomes Validos: B, Salario, resultado_soma, num1, numInteiro, Nome_Completo.
+
+
 Algumas linguagens de programação fazem diferenciação entre letras minúsculas ou maiúsculas, essa diferença é conhecido como case-sensitive ou sensível ao caso.
 
 
