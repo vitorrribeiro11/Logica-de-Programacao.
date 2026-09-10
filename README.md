@@ -65,11 +65,16 @@ Para cada célula de memória é atribuído um número sequencial que correspond
 
 ## Regra de nomeação de variaveis:
 
--Pode se utilizar Letras, Números e Underscore "_" 
+-Pode se utilizar Letras, Números e Underscore "_"
+
 -Não utilizar caracteres especiais, como acentos, simbolos ( ?/:@#~), ç, entre outros.
+
 -O primeiro caractere deve ser sempre alfabético (Letras Maiusculas ou Minusculas).
+
 -Os demais podem ser alfanuméricos (Letras, Números e _).
+
 -Não pode se usar palavras reservadas da linguagem de programação.
+
 -Não pode ter espaços em branco.
 
 Algumas linguagens de programação fazem diferenciação entre letras minúsculas ou maiúsculas, essa diferença é conhecido como case-sensitive ou sensível ao caso.
