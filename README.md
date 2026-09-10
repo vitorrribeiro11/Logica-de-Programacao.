@@ -63,4 +63,9 @@ Para cada célula de memória é atribuído um número sequencial que correspond
 
 <img width="725" height="295" alt="fotogit" src="https://github.com/user-attachments/assets/967a6768-694d-4436-bde6-9a0265f6dc03" />
 
+## Regra de nomeação de variaveis:
 
+-Pode se utilizar Letras, Números e Underscore "_" 
+-Não utilizar caracteres especiais, como acentos, simbolos ( ?/:@#~), ç, entre outros.
+-O primeiro caractere deve ser sempre alfabético (Letras Maiusculas ou Minusculas).
+-Os demais podem ser alfanuméricos (Letras, Números e _).
