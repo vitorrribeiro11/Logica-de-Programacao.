@@ -114,5 +114,8 @@ Algumas linguagens de programação fazem diferenciação entre letras minúscul
 
 <img width="626" height="126" alt="Unários" src="https://github.com/user-attachments/assets/6de15530-e2d6-48b0-b4e6-33694c2b90a7" />
 
+## Operadores Unários e Binários
+
+<img width="510" height="334" alt="Unário_Binário" src="https://github.com/user-attachments/assets/a533e361-26bd-4a03-80dd-90f1d80875f8" />
 
 
