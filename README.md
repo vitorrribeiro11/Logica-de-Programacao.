@@ -101,9 +101,12 @@ Algumas linguagens de programação fazem diferenciação entre letras minúscul
 
 ## Operadores Aritméticos
 
+# São Operações Matemáticas: 
+
 <img width="408" height="323" alt="Aritmetica" src="https://github.com/user-attachments/assets/d508a722-a64b-4acc-82b0-08b96496d0da" />
 
 <img width="408" height="323" alt="Aritmetica2" src="https://github.com/user-attachments/assets/a170b994-6872-4884-8f62-60a44997af73" />
+
 
 ## Operadores Unários
 
