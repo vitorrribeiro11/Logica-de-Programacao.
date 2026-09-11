@@ -71,6 +71,7 @@ Não recebe alteração durante a execução do programa.
 ## Variavel:
 
 É um dado que pode variar durante a execução do programa ou seja pode assumir valores durante a execução do programa.
+Uma Variável consegue armazenar um valor por vez, ou seja se colocado mais de um valor ela vai armazenar somente o ultimo valor descrito. 
 
 ## Regra de nomeação de variaveis:
 
