@@ -110,6 +110,8 @@ Algumas linguagens de programação fazem diferenciação entre letras minúscul
 
 ## Operadores Unários
 
+### Não são Operações Matemáticas:
+
 <img width="626" height="126" alt="Unários" src="https://github.com/user-attachments/assets/6de15530-e2d6-48b0-b4e6-33694c2b90a7" />
 
 
