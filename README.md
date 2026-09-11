@@ -118,4 +118,7 @@ Algumas linguagens de programação fazem diferenciação entre letras minúscul
 
 <img width="510" height="334" alt="Unário_Binário" src="https://github.com/user-attachments/assets/a533e361-26bd-4a03-80dd-90f1d80875f8" />
 
+## Ordem de Precedência 
+
+<img width="685" height="243" alt="Ordem_Aritmetica" src="https://github.com/user-attachments/assets/ac2e7310-08b8-4dac-aa8e-3a9eb41066a7" />
 
