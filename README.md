@@ -99,4 +99,14 @@ Nomes Validos: B, Salario, resultado_soma, num1, numInteiro, Nome_Completo.
 
 Algumas linguagens de programação fazem diferenciação entre letras minúsculas ou maiúsculas, essa diferença é conhecido como case-sensitive ou sensível ao caso.
 
+## Operadores Aritméticos
+
+<img width="408" height="323" alt="Aritmetica" src="https://github.com/user-attachments/assets/d508a722-a64b-4acc-82b0-08b96496d0da" />
+
+
+<img width="407" height="345" alt="Aritmetica2" src="https://github.com/user-attachments/assets/320cab18-825d-4637-9f64-9c7972c08423" />
+
+
+
+
 
