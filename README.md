@@ -123,3 +123,12 @@ Algumas linguagens de programação fazem diferenciação entre letras minúscul
 
 <img width="685" height="243" alt="Ordem_Aritmetica" src="https://github.com/user-attachments/assets/ac2e7310-08b8-4dac-aa8e-3a9eb41066a7" />
 
+## Debug/Debugar
+
+É uma forma de executar um algoritmo passo a passo e ver o que acontece durante a execução de forma que seja feita uma analise completa dele, passando por cada comando e vendo o que esta sendo feito.
+
+## BreakingPoint
+
+São pontos de parada de um debug, ou seja se quiser fazer uma analise em uma parte do algoritmo sem ter que executar todas as partes para chegar nela, se faz um BreakingPoint. 
+
+
