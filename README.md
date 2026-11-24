@@ -109,8 +109,6 @@ Algumas linguagens de programação fazem diferenciação entre letras minúscul
 <img width="408" height="323" alt="Aritmetica2" src="https://github.com/user-attachments/assets/a170b994-6872-4884-8f62-60a44997af73" />
 
 
-![1795555983155.jpg](https://github.com/user-attachments/assets/43125002-3866-420f-96d9-952b6852d424)
-
 ## Operadores Unários
 
 ### Não são Operações Matemáticas:
